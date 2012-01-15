@@ -1,0 +1,6 @@
+name = BrightLemon Provision Customizations
+description = Makes alias, drushrc and setting files group readable.
+package = Provision
+dependencies[] = drush
+
+core = 6.x
